@@ -35,7 +35,7 @@ Next, navigate to https://www.rogueamoeba.com/nicecast/. Click the huge <kbd>Fre
 
 As soon as that's done downloading, open up Nicecast. You should be presented with the following interface:
 
-![Bluecast](/static/images/contributing/3.png)
+![Bluecast](/images/3.png)
 
 In the top menu, click on <kbd>Window</kbd> ➞ <kbd>Show Server</kbd>, or simply press <kbd>⌘ 2</kbd>. You should see the following:
 
