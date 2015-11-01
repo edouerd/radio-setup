@@ -54,7 +54,7 @@ Here's copypastable text:
 - Name: `Bluecast`
 - Server Type: `Icecast 2`
 - Account: `*Leave Blank`
-- Password: `d3sign`
+- Password: `REDACTED`
 - Address: `bluecast-master.rtp.raleigh.ibm.com`
 - Port: `8001`
 - Mount Point: `/bluecast_master`
