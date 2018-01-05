@@ -13,6 +13,18 @@ Index
 
 More later. If you're already here. Great job!
 
+In summary, our tech stack:
+
+https://www.rogueamoeba.com/nicecast/
+https://www.airtime.pro/
+
+Interesting leads:
+
+http://libretime.org/
+https://mpv.io/installation/
+https://github.com/Kickball/awesome-selfhosted#media-streaming
+https://github.com/n1trux/awesome-sysadmin#vpn
+
 —
 
 ##### For DJs
